@@ -206,3 +206,13 @@ Layered security (NACL + Security Groups)
 Internet routing configuration
 Monitoring with Flow Logs
 Virtual machine deployment and access
+
+
+
+
+
+
+
+
+## Notion Link
+https://swamp-diadem-74c.notion.site/AWS-Virtual-Private-Cloud-VPC-30a5e80cc235803485ffdada9db8d9d6?source=copy_link
